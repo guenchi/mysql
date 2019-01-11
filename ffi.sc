@@ -18,7 +18,7 @@
         mysql-close
         )
     (import 
-        (scheme)
+        (chezscheme)
         (mysql const)
         (mysql ftype)
         )

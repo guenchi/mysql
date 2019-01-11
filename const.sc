@@ -5,7 +5,7 @@
     mysql-stmt-execute-done
     mysql-stmt-fetch-done
     )
-  (import (scheme))  
+  (import (chezscheme))  
 
   (define mysql-stmt-init-done 1)
   (define mysql-stmt-prepare-done 2)

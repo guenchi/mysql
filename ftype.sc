@@ -9,7 +9,7 @@
         mysql-res
         mysql-parameters
         )
-        (import (scheme))
+        (import (chezscheme))
 
     (define-ftype mysql-field
         (struct

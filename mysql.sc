@@ -5,7 +5,7 @@
         err
         )
     (import 
-        (scheme)
+        (chezscheme)
         (mysql const)
         (mysql ftype)
         (mysql ffi)
